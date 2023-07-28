@@ -41,3 +41,4 @@ class ProductPage(BasePage):
         assert product_price == product_price_message.text, "Product price is not equal"
 
 
+
